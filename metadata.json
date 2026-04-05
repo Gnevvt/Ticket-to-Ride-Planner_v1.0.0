@@ -1,0 +1,5 @@
+{
+  "name": "Ticket to Ride Map Planner",
+  "description": "An interactive map planner for Ticket to Ride (Original USA), allowing players to select colors and mark routes.",
+  "requestFramePermissions": []
+}
